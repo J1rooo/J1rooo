@@ -18,6 +18,18 @@ I am a student of Information Systems at Sriwijaya University
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J1rooo/J1rooo/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J1rooo/J1rooo/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/J1rooo/J1rooo/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/J1rooo/J1rooo/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 [![](https://komarev.com/ghpvc/?username=J1rooo&icon=0&color=0)](https://visitcount.itsvg.in)
 
